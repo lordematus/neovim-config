@@ -1,0 +1,2 @@
+require("lordematus")
+print("hello")
