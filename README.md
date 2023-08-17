@@ -17,7 +17,9 @@ Reload the shell configuration
 source ~/.bashrc
 ```
 
-**Important:** In Flatpak'ed apps `~/.config/` folder maps to `~/.var/app/example.flatpak.app/config`, `~/.local/share/` maps to `~/.var/app/example.flatpak.app/data/` and `~/.cache` maps to `~/.var/app/example.flatpak.app/cache/`
+**Important:** In Flatpak'ed apps `~/.config/` folder maps to `~/.var/app/example.flatpak.app/config`,
+`~/.local/share/` maps to `~/.var/app/example.flatpak.app/data/` and `~/.cache` maps to
+`~/.var/app/example.flatpak.app/cache/`
 
 ## Configuring fonts
 
@@ -37,3 +39,7 @@ sudo apt install fonts-firacode
 
 - https://github.com/wbthomason/packer.nvim
 - https://github.com/nvim-telescope/telescope.nvim
+
+## Next
+
+- Configuring LSP accordinly
